@@ -1,0 +1,207 @@
+ 
+@media screen and (max-width:1366px) {
+    
+    .home {
+    padding-top: 100px;
+    padding-bottom: 300px; 
+    }
+    
+    .home p {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    
+}
+
+
+ 
+
+
+ @media screen and (max-width:1024px) {
+
+ 	.home {
+ 		background-attachment: scroll;
+ 		padding-top: 80px;
+        padding-bottom: 180px;
+
+ 	}
+
+ 	.home p {
+         margin-top: 30px;
+         margin-bottom: 50px;
+     }
+
+ 	.products {
+        background: url("../IMG/pr.jpg") no-repeat;
+ 		background-attachment: scroll;
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-position: center;
+ 	}
+
+ }
+
+
+
+ @media screen and (max-width:992px) {
+.logo img { width:80%;}
+
+.nav li a {
+ padding:5px !important; 
+ font-size:15px; 
+}
+
+ul.nav {
+margin-top:13px;
+margin-left: 30px;
+	  }
+
+.navbar { 
+margin-bottom: 2px !important;
+	 }
+
+.navbar-collapse { 
+	float:none !important;
+	 }
+
+.home { 
+	padding: 100px 0;
+}
+h1 { font-size: 49px !important;}
+
+.external .tab:last-child { 
+	display:block;
+	width:210px;
+	margin:30px auto 0;
+
+ }
+
+ }
+
+
+
+ @media screen and (max-width:767px){
+ul.nav {
+	margin-top:3px; 
+	border-radius:9%; 
+	margin: 3px auto; 
+	width:50%;
+}
+
+.home { 
+	background-position: center;
+	 padding:100px 0;
+	}
+
+h1 {
+	font-size: 42px !important;
+}
+
+.home p {
+	font-size: 21px;
+}
+ }
+
+
+@media screen and (max-width:565px) {
+	.external .tab {
+		margin:10px auto 0;
+		display:block;
+		width:160px;
+		padding:5px 7px;
+
+	}
+
+ .external .tab:last-child {
+ 	margin:10px auto 0;
+ 	width:176px;
+ }
+
+}
+
+
+@media screen and (max-width:486px) {
+
+.home a { 
+	display:block;
+	 max-width:100%;
+	  padding:5px 5px;
+  margin:10px 20px auto;
+  text-align:center;
+}
+
+.home .links {
+ text-align:center;
+}
+
+.home a:first-child { 
+	margin:10px 42px;
+}
+
+.home a:last-child {
+ margin:10px 48px;
+   margin-top:20px;
+}
+
+.connect input {
+	width: 64%;
+}
+
+}
+
+
+
+
+
+ @media screen and (max-width:455px) {
+.home { 
+	padding:60px 0 90px;
+	 }
+
+
+
+
+
+.home p { 
+	margin: 35px auto 65px;
+}
+
+
+
+
+
+
+ }
+
+ @media screen and (max-width:443px) {
+
+.library .item1 {
+ width:157px;
+}
+
+.library .img:hover {
+	border-radius:15px 10px 15px 10px !important;
+}
+
+ }
+
+
+@media screen and (max-width:414px) {
+    .connect {
+        background-position-x: 7%;
+    }
+    
+}
+
+
+ @media screen and (max-width:357px) {
+
+ .library .item1 {
+ width:137px !important;
+}
+
+.connect input {
+	width: 74%;
+}
+
+ }
